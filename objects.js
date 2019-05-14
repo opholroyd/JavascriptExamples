@@ -69,3 +69,29 @@
 
 // console.log(rabbit.bunChew())
 
+let obj = {
+    key: "value",
+    key2: "value2"
+}
+
+console.log(Object.keys(obj))
+console.log(Object.values(obj))
+console.log(Object.entries(obj))
+
+// let arr = [var1, var2]
+
+// let objArr = {
+//     arrKey: [var1, var2, var3],
+//     key: value
+// }
+
+// let arrObjs = [
+//     {
+//         key: value,
+//         key1: value1
+//     },
+//     {
+//         key2: value2,
+//         key3: value3
+//     }
+// ]
